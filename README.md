@@ -1,7 +1,7 @@
 # Evaluation of drinking water in the South Moravian Region in terms of quality and price
 
-This is an analytical project in Python and PowerBI which evaluates the water price and quality in our region. In terms of quality, we focus on nitrates which is the key parameter for infants under 6 months. 
-
+This is an analytical project in Python and PowerBI which evaluates the water price and quality in our region. 
+In terms of quality, we focus on nitrates which is the key parameter for infants under 6 months. 
 
 ## Acknowledgements
 
